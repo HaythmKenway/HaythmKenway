@@ -1,18 +1,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ![Akileswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaythmKenway&show_icons=true&theme=radical)
-[![Akileswar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HaythmKenway)](https://github.com/HaythmKenway/github-readme-stats)
 <br>
-### My Programming Languages:
+### My frontend tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,css,dart,html,js,react,vue,bootstrap,flutter&perline=7" />
-  </a>
-</p>
-
-### frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,css,dart,html,js,react,vue,bootstrap,flutter&perline=7" />
+    <img src="https://skillicons.dev/icons?i=typescript,tailwind,css,dart,html,js,react,vue,bootstrap,flutter&perline=7" />
   </a>
 </p>
 
@@ -40,7 +32,7 @@
 ### ide
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vim&perline=7" />
+    <img src="https://skillicons.dev/icons?i=eclipse,neovim,vim&perline=7" />
   </a>
 </p>
 
